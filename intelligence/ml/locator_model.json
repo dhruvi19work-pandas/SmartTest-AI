@@ -1,0 +1,16 @@
+{
+  "type": "split",
+  "feature": "similarity",
+  "feature_index": 0,
+  "threshold": 72.5,
+  "left": {
+    "type": "leaf",
+    "prediction": 0,
+    "samples": 4
+  },
+  "right": {
+    "type": "leaf",
+    "prediction": 1,
+    "samples": 4
+  }
+}
